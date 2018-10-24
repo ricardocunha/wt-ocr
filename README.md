@@ -36,6 +36,3 @@ npm test
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
-https://wt-23e1afa41c197f6c14a31325301842cb-0.sandbox.auth0-extend.com/wt-ocr/images
