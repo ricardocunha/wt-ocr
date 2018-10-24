@@ -1,0 +1,23 @@
+{
+  "name": "wt-ocr",
+  "version": "0.0.1",
+  "description": "Webtask OCR",
+  "main": "OCR",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect-multiparty": "^2.0.0",
+    "express": "^4.16.4",
+    "okrabyte": "^0.1.1",
+    "webtask-tools": "^3.4.0"
+  },
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "jest": "^23.6.0",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  }
+}
